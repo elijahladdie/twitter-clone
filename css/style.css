@@ -606,6 +606,9 @@ display: flex;
   display: none;
   
 }
+.left-sidebar .user{
+  display: none;
+}
 
   .container {
     padding: 15px 3%;
