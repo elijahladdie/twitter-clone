@@ -596,7 +596,13 @@ display: flex;
 
 /**  ---------------------- Responsivenesss ----------------------- */
 @media only screen and (max-width: 600px) {
- 
+ .left-sidebar .icons a span{
+  display: none;
+ }
+ .left-sidebar{
+  flex-direction: row;
+ }
+
   .container {
     padding: 15px 3%;
   }
