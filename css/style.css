@@ -599,7 +599,7 @@ display: flex;
  .left-sidebar .icons a span{
   display: none;
  }
- .left-sidebar{
+ .left-sidebar .icons{
   flex-direction: row;
  }
 
