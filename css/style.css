@@ -601,6 +601,7 @@ display: flex;
  }
  .left-sidebar .icons{
   flex-direction: row;
+  justify-content: space-between;
  }
  .left-sidebar .icons a button.button{
   display: none;
