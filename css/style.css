@@ -653,4 +653,7 @@ display: flex;
     display: flex;
     flex-wrap: wrap;
   }
+  .wrapped-icons .button{
+    display: none;
+  }
 }
