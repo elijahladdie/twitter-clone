@@ -602,6 +602,10 @@ display: flex;
  .left-sidebar .icons{
   flex-direction: row;
  }
+ .left-sidebar .icons a button.button{
+  display: none;
+  
+}
 
   .container {
     padding: 15px 3%;
